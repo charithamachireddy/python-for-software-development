@@ -1,0 +1,11 @@
+asks to be performed:
+
+ 1. Navigate through Gnome Desktop 
+
+2. Explore various system settings 
+
+3. Change the background of the display
+
+4. Change the icon size of the desktop
+
+5. Assign an IP address to the network card
