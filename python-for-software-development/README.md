@@ -10,7 +10,7 @@ to become industry-ready.
 - Practiced input and output
 - First GitHub commit
 
-## Day 2 – Print Statements and Comments
+## Day 3 – Print Statements and Comments
 
 - Learned how to use the print() function to display output in Python.
 
@@ -25,3 +25,4 @@ to become industry-ready.
 ## Goal
 To build strong Python fundamentals and progress towards
 real-world projects and full-stack development.
+
