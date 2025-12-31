@@ -1,2 +1,1 @@
-print("Hello World")
-print("Python Industry Ready - Day 1")
+print("hello world")
