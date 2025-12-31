@@ -10,7 +10,7 @@ to become industry-ready.
 - Practiced input and output
 - First GitHub commit
 
-## Day 2 – Print Statements and Comments
+## Day 2&3 – Print Statements and Comments
 - Learned how to use the print() function to display output in Python.
 - Practiced printing text and variables using simple Python programs.
 - Understood the purpose of comments and how to write them using the # symbol.
