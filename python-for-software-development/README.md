@@ -22,6 +22,12 @@ to become industry-ready.
 - Used input() to take user input
 - Performed arithmetic operations
 - Created a simple calculator program
+## Day 5 – Input and Type Casting
+- Learned how to take input from users using the input() function.
+- Understood that user input is received as a string by default.
+- Practiced converting input values using int() and float().
+- Performed calculations using user-entered data.
+- Built a user age application using input and type casting.
 
 
 ## Goal
