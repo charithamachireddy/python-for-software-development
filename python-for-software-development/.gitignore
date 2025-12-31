@@ -1,0 +1,3 @@
+# Ignore Windows system folders
+$RECYCLE.BIN/
+System Volume Information/
