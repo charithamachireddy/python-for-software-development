@@ -122,9 +122,87 @@ Output: total bill with message
 price = float(input("Enter price of one item: "))
 quantity = int(input("Enter quantity: "))
 total_bill = price * quantity
-print("Total bill amount is:", total_bill)"""
-
-
+print("Total bill amount is:", total_bill)
+#Print Hello World.
+print("Hello World")
+#Print your name.
+print("Machireddy Charitha")
+#Print your age.
+print("age:20")
+#Print two lines using two print() statements.
+print("hii")
+print("how are you")
+#Write a program with one comment and one print() statement.
+#my name is charitha
+print("my name is charitha")
+#Print your name and age in one line.
+name = "chinni"
+age = 9
+print("chinni is 9 years old")
+#Print:
+#Python
+#is
+#easy
+print("python")
+print("is")
+print("easy")
+#Use comments to explain each line of a program.
+# This program demonstrates how to use comments to explain each line
+# Printing a welcome message to the screen
+print("Welcome to Python programming")
+# Storing the user's name in a variable
+name = "Charitha"
+# Printing the user's name using the variable
+print("Hello", name)
+# Storing the user's age in a variable
+age = 20
+# Printing the user's age
+print("Your age is", age)
+#Print a sentence using multiple variables.
+# Storing name in a variable
+name = "Charitha"
+# Storing course name in a variable
+course = "Python Programming"
+# Storing duration in a variable
+duration = "3 months"
+# Printing a sentence using multiple variables
+print("Hello,", name, "You are learning", course, "for", duration)
+#Print a simple welcome message with comments.
+# This program prints a welcome message
+# Printing welcome text
+print("Welcome to Python")
+# Printing learning message
+print("You are starting Day 3: Print and Comments")
+#Store your name in a variable and print it.
+name = "cherry"
+print(name)
+#Store your age and print it.
+age=9
+print(age)
+#Add two numbers and print the result.
+num1=2
+num2=2
+print(num1+num2)
+#Subtract two numbers using variables.
+print(num1-num2)
+#Multiply two numbers using variables.
+print(num1*num2)
+#Store price and quantity, print total cost.
+store_price = 8
+quantity = 7
+print(store_price+quantity)
+#Take your birth year and calculate your age.
+birth_year = 2005
+present = 2025
+print(present-birth_year)
+## Storing values in two variables
+a = 10
+b = 20
+# Swapping the values
+a, b = b, a
+# Printing values after swapping
+print("Value of a:", a)
+print("Value of b:", b)"""
 
 
 
