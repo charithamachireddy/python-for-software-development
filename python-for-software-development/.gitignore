@@ -1,3 +1,7 @@
 # Ignore Windows system folders
 $RECYCLE.BIN/
 System Volume Information/
+
+# Ignore zip files
+*.zip
+
