@@ -28,6 +28,12 @@ to become industry-ready.
 - Practiced converting input values using int() and float().
 - Performed calculations using user-entered data.
 - Built a user age application using input and type casting.
+## Day 6 – Operators
+- Learned about basic arithmetic operators in Python.
+- Understood the modulus (%) operator.
+- Used operators with user input.
+- Applied conditional logic to check even or odd numbers.
+- Created an even/odd checker program using operators.
 
 
 ## Goal
