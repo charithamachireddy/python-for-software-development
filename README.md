@@ -33,6 +33,12 @@ to become industry-ready.
 - Used operators with user input.
 - Applied conditional logic to check even or odd numbers.
 - Created an even/odd checker program using operators.
+## Day 7 – If-Else
+- Learned conditional statements using if, elif, and else.
+- Understood how to compare multiple values.
+- Used logical operators in conditions.
+- Applied decision-making logic in programs.
+- Built a program to find the largest of three numbers.
 
 
 
