@@ -39,6 +39,13 @@ to become industry-ready.
 - Used logical operators in conditions.
 - Applied decision-making logic in programs.
 - Built a program to find the largest of three numbers.
+## Day 8 – For Loop
+- Learned how to use for loops in Python.
+- Understood the use of range() function.
+- Practiced repeating statements.
+- Built a multiplication table program.
+- Applied loops with user input.
+
 
 
 
