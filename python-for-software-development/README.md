@@ -46,6 +46,12 @@ to become industry-ready.
 - Practiced repeating statements.
 - Built a multiplication table program.
 - Applied loops with user input.
+## Day 9 – While Loop
+- Learned how to use the while loop in Python.
+- Understood condition-based repetition.
+- Practiced updating variables inside a loop.
+- Built a program to calculate the sum of numbers.
+- Applied user input with a while loop.
 
 
 
