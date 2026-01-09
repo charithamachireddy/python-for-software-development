@@ -58,6 +58,12 @@ to become industry-ready.
 - Used infinite loops with conditions.
 - Built a number guessing game.
 - Applied user input with loop control.
+## Day 11 – Nested Loops
+- Learned how nested loops work in Python.
+- Understood loop-inside-loop concept.
+- Practiced printing star patterns.
+- Built square and triangle patterns.
+- Improved logical thinking using loops.
 
 
 ## Goal
