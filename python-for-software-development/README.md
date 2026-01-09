@@ -52,7 +52,12 @@ to become industry-ready.
 - Practiced updating variables inside a loop.
 - Built a program to calculate the sum of numbers.
 - Applied user input with a while loop.
-
+## Day 10 – Break and Continue
+- Learned how `break` exits a loop.
+- Understood how `continue` skips an iteration.
+- Used infinite loops with conditions.
+- Built a number guessing game.
+- Applied user input with loop control.
 
 
 ## Goal
