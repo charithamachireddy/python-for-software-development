@@ -64,6 +64,16 @@ to become industry-ready.
 - Practiced printing star patterns.
 - Built square and triangle patterns.
 - Improved logical thinking using loops.
+## Day 12 – Mini Project (ATM Simulation)
+- Built a basic ATM simulation using Python.
+- Implemented menu-driven program using loops.
+- Used if-else for decision making.
+- Handled deposit and withdrawal logic.
+- Practiced real-world application logic.
+
+
+   
+
 
 
 ## Goal
