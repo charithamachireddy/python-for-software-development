@@ -70,6 +70,13 @@ to become industry-ready.
 - Used if-else for decision making.
 - Handled deposit and withdrawal logic.
 - Practiced real-world application logic.
+## Day 13 – Functions and Return
+- Learned how to define functions in Python.
+- Understood the use of parameters and arguments.
+- Practiced returning values from functions.
+- Built reusable logic using functions.
+- Implemented calculator and condition-based functions.
+
 
 
    
