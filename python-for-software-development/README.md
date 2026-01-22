@@ -88,7 +88,12 @@ to become industry-ready.
 - Practiced accessing global variables inside functions.
 - Learned how local variables work within functions.
 - Avoided common mistakes related to variable scope.
-
+## Day 16 – Lambda Functions
+- Learned what lambda functions are in Python.
+- Understood the difference between normal and lambda functions.
+- Practiced writing one-line functions using lambda.
+- Used lambda for arithmetic and conditional operations.
+- Improved code readability for simple tasks.
 
    
 
