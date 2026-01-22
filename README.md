@@ -81,6 +81,12 @@ to become industry-ready.
 - Practiced using functions with multiple parameters.
 - Built programs using user input and function arguments.
 - Improved code reusability and clarity using functions.
+## Day 15 – Local vs Global Variables
+- Learned the difference between local and global variables.
+- Understood variable scope in Python.
+- Practiced accessing global variables inside functions.
+- Learned how local variables work within functions.
+- Avoided common mistakes related to variable scope.
 
 
 
