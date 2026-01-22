@@ -76,6 +76,12 @@ to become industry-ready.
 - Practiced returning values from functions.
 - Built reusable logic using functions.
 - Implemented calculator and condition-based functions.
+## Day 14 – Arguments & Parameters
+- Learned the difference between parameters and arguments.
+- Understood how to pass values to functions.
+- Practiced using functions with multiple parameters.
+- Built programs using user input and function arguments.
+- Improved code reusability and clarity using functions.
 
 
 
