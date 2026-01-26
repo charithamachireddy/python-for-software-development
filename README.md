@@ -99,6 +99,12 @@ to become industry-ready.
 - Implemented factorial using recursion.
 - Calculated sum of numbers using recursion.
 - Practiced countdown using recursive functions.
+## Day 18 – Lists
+- Learned how to create lists in Python.
+- Accessed list elements using index.
+- Added and removed items from lists.
+- Used loops to iterate through lists.
+- Practiced common list operations.
 
 
 
