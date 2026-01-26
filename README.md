@@ -93,6 +93,12 @@ to become industry-ready.
 - Practiced writing one-line functions using lambda.
 - Used lambda for arithmetic and conditional operations.
 - Improved code readability for simple tasks.
+## Day 17 – Recursion (Basic)
+- Learned the concept of recursion in Python.
+- Understood base case and recursive case.
+- Implemented factorial using recursion.
+- Calculated sum of numbers using recursion.
+- Practiced countdown using recursive functions.
 
 
 
