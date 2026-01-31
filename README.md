@@ -105,6 +105,12 @@ to become industry-ready.
 - Added and removed items from lists.
 - Used loops to iterate through lists.
 - Practiced common list operations.
+## Day 19 – Tuples & Sets
+- Learned what tuples and sets are in Python.
+- Practiced creating and accessing tuples.
+- Understood immutability of tuples.
+- Learned how sets store unique elements.
+- Practiced basic set operations.
 
 
 
