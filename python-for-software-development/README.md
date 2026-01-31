@@ -112,6 +112,12 @@ to become industry-ready.
 - Understood immutability of tuples.
 - Learned how sets store unique elements.
 - Practiced basic set operations.
+## Day 20 – Dictionaries
+- Learned what dictionaries are in Python.
+- Used key–value pairs to store data.
+- Accessed, added, and updated dictionary values.
+- Removed items from dictionaries.
+- Iterated through dictionaries using loops.
 
 
    
