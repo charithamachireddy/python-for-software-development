@@ -123,6 +123,12 @@ to become industry-ready.
 - Used conditions inside list comprehensions.
 - Practiced filtering and transforming data.
 - Improved code readability and performance.
+## Day 22 – Built-in Functions (map, filter)
+- Learned how to use map() to transform data.
+- Used filter() to select elements based on conditions.
+- Practiced combining map and filter with lambda functions.
+- Converted results into lists using list().
+- Improved functional programming skills in Python.
 
 
 
