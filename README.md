@@ -117,6 +117,13 @@ to become industry-ready.
 - Accessed, added, and updated dictionary values.
 - Removed items from dictionaries.
 - Iterated through dictionaries using loops.
+## Day 21 – List Comprehensions
+- Learned how to create lists using list comprehensions.
+- Converted loops into single-line expressions.
+- Used conditions inside list comprehensions.
+- Practiced filtering and transforming data.
+- Improved code readability and performance.
+
 
 
 
