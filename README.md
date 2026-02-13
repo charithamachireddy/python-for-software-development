@@ -129,6 +129,12 @@ to become industry-ready.
 - Practiced combining map and filter with lambda functions.
 - Converted results into lists using list().
 - Improved functional programming skills in Python.
+## Day 23 – String Methods
+- Learned common string methods in Python.
+- Practiced case conversion methods.
+- Used strip(), replace(), split(), and join().
+- Checked string conditions using built-in methods.
+- Improved text manipulation skills.
 
 
 
