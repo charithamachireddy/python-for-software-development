@@ -135,6 +135,13 @@ to become industry-ready.
 - Used strip(), replace(), split(), and join().
 - Checked string conditions using built-in methods.
 - Improved text manipulation skills.
+## Day 24 – String Formatting
+- Learned different ways of formatting strings in Python.
+- Used f-strings for modern string formatting.
+- Practiced .format() method.
+- Understood old-style % formatting.
+- Formatted numbers with decimal precision and commas.
+
 
 
 
