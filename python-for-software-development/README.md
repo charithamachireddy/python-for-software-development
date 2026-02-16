@@ -142,6 +142,13 @@ to become industry-ready.
 - Practiced .format() method.
 - Understood old-style % formatting.
 - Formatted numbers with decimal precision and commas.
+## Day 25 – File Handling (Read/Write)
+- Learned how to create and write to files.
+- Practiced reading file content.
+- Used different file modes: r, w, a.
+- Appended data to existing files.
+- Understood the importance of closing files properly.
+
 
 
 
